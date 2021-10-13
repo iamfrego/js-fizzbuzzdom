@@ -17,5 +17,4 @@ for (let i = 1; i <= 100; i++) {
         const element = `<li class="box box--${i} number">${i}</li>`
         ul.innerHTML += element;
     }
-
 }
